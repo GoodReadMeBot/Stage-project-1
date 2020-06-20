@@ -1,5 +1,5 @@
 # Test-repo
 
 ```
-add com.test.repo:2
+add com.test.repo:3
 ```
